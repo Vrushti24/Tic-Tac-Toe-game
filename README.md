@@ -2,11 +2,11 @@
 
 A new Flutter project.
 
-What does project include?
--A Splash Screen.
--It is multiplayer game
--Score is updated when one wins.
--a reset button
+# What does project include?
+  [1]A Splash Screen.                                                              
+  [2] is multiplayer game                                                                                                                   
+  [3]Score is updated when one wins.                                                                                              
+  [4]a reset button                                                                                    
 
 Contact : 
--Linkedln : https://www.linkedin.com/in/vrushti-shah-3203141b2/
+  - Linkedln : https://www.linkedin.com/in/vrushti-shah-3203141b2/
